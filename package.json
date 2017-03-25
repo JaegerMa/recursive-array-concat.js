@@ -1,0 +1,24 @@
+{
+  "name": "recursive-array-concat",
+  "version": "1.0.0",
+  "description": "Recursivly concat array contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaegerma/recursive-array-concat.js.git"
+  },
+  "keywords": [
+    "array",
+    "concat",
+    "recursive"
+  ],
+  "author": "JaegerMa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaegerma/recursive-array-concat.js/issues"
+  },
+  "homepage": "https://github.com/jaegerma/recursive-array-concat.js#readme"
+}
